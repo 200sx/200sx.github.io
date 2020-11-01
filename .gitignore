@@ -1,8 +1,5 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
-
-
-# file that vscode uses - you may not need this
-workspace.code-workspace
+vendor
