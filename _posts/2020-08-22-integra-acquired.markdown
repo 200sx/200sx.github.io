@@ -32,7 +32,7 @@ I found a Silver Facelift Integra for $4500 on Gumtree. It was at the dealership
 
 
 ![car at home](/images/car_at_home.jpg)<center>
-The car at home
+Near a mate's place
 </center> 
 
 The car had a high mileage and was overpriced for sure (by about $600 I'd wager), but since it was the middle of COVID, it was a fully driving car, and I needed a daily - I was happy to pay the agreed upon price. Since my goal was to K-swap it, eventually I can sell some of the bits for extra dosh. The driveline can be sold for $500-$700 (pending a compression test) and the wheels can be sold $400 (I'd need some thick Enkeis eventually) so the car was pretty worth the price - I'd say. Or at least I'll keep telling myself that.

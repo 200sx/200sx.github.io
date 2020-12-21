@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Compression Testing the B18B1"
+date:   2020-12-20 17:45:00 +1000
+categories: jekyll update
+---
+
+One of the things that needed to be done prior to engine removal was to compression test it. My tuner wanted to buy the longblock, pop a VTEC head on it and have some fun with it but in case that plan fell through, I wanted to know the engine health so I can price it accordingly. Also it was something I've never done and I wanted to learn how to do it.
+
+To do it;
+* Remove the 15A fuse labelled "Fuel Pump (SRS)" at the interior fuse box
+* Remove the coilpacks and lay them away from each other and metal (so it doesn't arc) - not sure if this is safe but it was good enough for us
+* Remove all the spark plugs - do this by hand and go slowly just to minimise the risk of the ceramic stem shattering
+
+Now you can test each cylinder bank one by one with the compression tester. Step on the accelerator to open up the intake and crank it for 3-4 seconds until the needle stops climbing and get the reading at the bank. Depressurise and repeat thrice. Do this for all four banks. Below were the readings I had. I also noticed there was an insignificant amount of oil in all the banks - the spark plug gaskets on the valve cover were shot for sure.

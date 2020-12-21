@@ -29,7 +29,7 @@ twitter_username: null
 
 # Build settings
 theme: minima
-  
+
 plugins:
   - jekyll-feed
 
