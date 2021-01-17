@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Heart Transplant - K24 Install"
+date:   2021-01-14 17:45:00 +1000
+categories: jekyll update
+---
+
+Today was a good day.
+
+![clutch](/images/engine_1.jpg)<center>
+Silver heart for a silver car - this photo was taken the next morning and edited into this post since the lighting was better than the old shot
+</center> 
+
+It was installed with the rear mount in the LOW position and the driver's side mount in the HIGH position. The passenger side bushing was flipped into "K24" position. Not sure if this is ideal since I was told that I'd have to use ALL high or ALL low mounts. But honestly, the instructions are eh and I saw people online use alternative positions like me - even my tuner said it looked square. I've reached out to Hasport just in-case and will edit their response below once they reply (if I remember hue hue).
+
+
+Unfortunately, no pretty timelapse or many photos, we knocked it out after work from about 7pm to 11pm. Not many tips to hand out even though it was a long process. My tips would be;
+
+* Keep everything as loosly threaded as possible to allow for wiggle room
+* Install the REAR mount first, not the transmission mount as per the instructions
+* Use a combination of the engine hoist and jack lift up the engine where necessary 
+* Use a friend to tilt/yaw the engine to align holes if necessary
+* Use some grease to help slide the bushings into the mounts 
