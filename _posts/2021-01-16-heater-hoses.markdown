@@ -26,7 +26,9 @@ The hose inlets on the car's side are all 5/8" like your old hoses, the outflow 
 * Find a similar piece of elbow hose for the outflow on the firewall, cut and mount it
 * Mount the hose reducer and cut the required length of 3/4" hose and route it to the outflow pipe
 
-** ADD PICTURE **
+![heater](/images/heater_1.jpg)<center>
+Still waiting to get the hose reducer sorted hence it being taped together. The position of the heater cable is important, line it up so that when the cable is pulled, the handle moves in the same plane, and not at an angle, or else your valve wont fully open/close.
+</center> 
 
 This cost me less than $20 and is a fully functional, and safe option
 
