@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "There and Back Again"
+date:   2021-08-03 17:45:00 +1000
+categories: jekyll update
+---
+
+I wanted to end this blog once everything was good with the car, but the truth be told -  I haven't touched the car much since I drove it home from the shop. Lockdown is real strict now which has put a halt on all my hobbies. As I write this post, we went from having a handful cases to 1,431 new cases today. Sure, the government could have handled this better. The same government that brings out bullshit hoon laws, revenue raising mobile speed cameras, abysmal handling of Centrelink (of which my family and my friends are grateful for) - I never had hope from the start. Plus, the latest crock of shit they've decided to serve up was the Surveillance Legislation Amendment, its like they've never heard of the term Orwellian - but I digress.
+
+On a positive note, Kanye released Donda a couple days ago and Drake's latest album released today. I'm listening to them both while drafting this final page. Both artists were formative during my pre-teen and teenage years, creating songs that were perfect for the drive home on the highway, cooling off from an energised session at the Nashö (the Sydney Nurburgring/touge). Plus, I thought of a fitting name for it as well (a reference to my favourite fantasy series) so YOLO.
+
+<br>
+
+**Built, not bought** - a term you hear a lot thrown around on the modified scene. The mature person won't pay any heed to such a pedantic adage - but there is another factor at play. One of the big deciding factors for me to decide to **build** and not **buy** a car was because, over the years - I saw my free time whittling away so I wanted to capitalise on the available time by experiencing something new. Buying another car was cool, sure - but then why are people so divided over that message? Sure people mainly throw it around when they compare a McLaren to a home grown Torana or R32.
+
+<br>
+
+![EK](/images/bought.jpg)<center>
+Bought - 99 EK1, B18C7, S80, LSD, S300
+</center> 
+<br> 
+The first car under my ownership was mainly bought as-is. I did a couple mods here and there but largely, I spent my time understanding driving dynamics, figuring out heel-toe and spending good times with mates after Uni. It was a good gateway drug into the hobby, allowing me to rock up to car meets, learn about how to maximise performance with what I had, doing incremental upgrades to see how it affected the experience of the car, dealing with worn out parts, getting used to maintenance cycles, troubleshooting electrical gremlins and flat batteries. It was pretty fun but car ownership is only one side of the hobby. There was always a feeling of triumph when you manage to fix that problem after spending hours under the hood.
+
+Most people stop here and upgrade to a better platform, or just get a pre-built car and call it quits. But I think that is a disservice, not because buying is the lesser option - building a car requires effort and sacrifices that not everyone can afford. I know every car enthusiast hypothesises about that one dream car that they want to build one day but never end up doing - but being young, dumb and having the time - I decided to look into it. Mind you, I'm not some technological genius - I work with Software, which is the polar opposite of hardware. I just knew my way aroung Google a little bit.
+
+<br>
+
+![DC4](/images/built.jpg)<center>
+Built - 00 DC4, K24A3, K20 Oil Pump, NSN3, MFactory 1.5 Way LSD
+</center> 
+
+The second car, I ripped out everything inside and out and made sure, if something went back in, it was improved somehow, even from something menial such as cleaning the carpets, to doing a full overhaul of the driveline. Maybe it was just the engineer in me talking but there is so much value in doing all the complicated stuff that buying doesn't teach. A lot of the problem solving skills and perseverance that I learnt could also be applied at work. Plus, you get to appreciate the engineering that goes into the simplest of cars. To relate it back to work, loosely coupled systems and microservices were all the rage before the wave of serverless and SaaS, but little did I know that engineers had figured this shit out in the 80s. Kanban and iterative improvements that Agilists love to spruik are all concepts that started in the manufacturing industry. Even my car was an iteration of the same concept, just 10 years newer. Same high revving I4 engine, same transverse mounted FWD, same short-ratio gearbox, hell even the same CANBUS/OBD concept - just a modern and more efficient iteration that I could easily integrate into a chassis that was developed a decade prior.
+
+Not only that, I got to make so many new industry connections, understand the complexities of cost optimisation and part selection to maximise my end goal - rather than throwing money at the problem. I also ended up with a good wall of tools that I use weekly on DIY projects throughout the house.
+
+I implore every tinker to allow themselves the *privilege* of working on an involved build. Something you can look back on after parking and say - yes, this was only possible because I decided to spend the countless hours reading technican manuals, researching, cataloguing forum posts and mulling over fitment underneath the car. And it is a privilege, and I'm grateful for having experienced it. All the parts and got-chas in the process were documented not for my own sake, but to lower the barrier of entry for other Honda nuts who were thinking about swapping out a B-series for a K-series. Information is free, and Hondas are basically Open Source.
+
+But at the end of the day, I think everyone should just enjoy whatever they like, fuck everyone else and enjoy the hobby however you can, I just wanted to share my perspective. Our time to extract joy out of these machines is limited - fuel prices increase every year, major manufacturers are dropping ICE support, right to repair seems to have no future, embedded electronics make hobbyist modification prohibitive, the woke crowd look down on you for burning dino-juice, and the consumerist nerds buy the latest phone every year just to tweet that Tesla trumps all. At the end of the day, us car guys/gals/non-binary pals just love a good cruise.
+
+
+A big thanks to everyone involved in the build - I could not have done this without you all;
+* Joseph - for all the late night assistance, brute strength, mechanical aptitude, the blessed high impact Milwaukee and driving another Honda
+* Danny - the reason most of our lot yolo'd all our wages into japanese shitboxes straight out of uni
+* Josh - dropping by on Sunday arvos to lend a hand
+* Henry - for allowing me to borrow your jacks for months on end 
+* Luis - literally being a Honda Yoda and letting me punch darts at the shop and watch you tune
+* Jaye - lending a hand with anything and everything, all while we talking shit about F1, Kswapping the world, and how hip hop has lost its way
