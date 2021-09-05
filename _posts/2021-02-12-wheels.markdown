@@ -7,7 +7,9 @@ categories: jekyll update
 
 Over the weekend I hit up Luis shop to pick up a spare of Enkeis he had for sale.
 
-*pic*
+![enkeis](/images/pic-10.jpg)<center>
+Vegan Friendly Meat
+</center>  
 
 Pretty terrible pic, but look how chonk they are. 15x8inch Enkei RPF1s +28 offset - MX5 spec and ideal for Integras it seems as well. They were wrapped in Hankook Ventus RS3s that had only been used for 1 track day (225/50/15). They had a lot of meat on them so they were a good steal - ideally I want to get 225/55/15s because I like thicc sidewalls.
 
