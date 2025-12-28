@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Fuel Pump - Walbro 255 & removing the immobiliser"
+date:   2020-12-19 15:30:16 +1100
+categories: dc4
+---
+
+I'll make a post soon with all the parts I have so far, and what I still need for the full K-swap, but one of the upgrades that needed to be done was to upgrade the fuel system. 
+
+Going from a 1.8L to a 2.4L motor means your fuelling requirements increase a tad. Luis also had a spare set of RDX injectors and connector pigtails on hand that I took off him. This gives me more breathing room down the line, but also I'd need to up the source fuel pump to run higher duty cycles. Joey had a spare GSS342 (Walbro 255LPH) lying around from when we parted out his EG, so he donated that to the cause. Upon research, the Walbro pump has the same connector as the DC4, so you don't need to get a connector pigtail for it.
+
+
+Upgrading the fuel pump was a pretty simple process. First take off the back seats completely. Ideally remove everything just to give yourself breathing room, and make sure its a well ventilated area or you're gonna get knock out from the fumes.
+
+![Fuel pump out](/images/fuel_1.jpg)<center>
+Fuel pump out
+</center> 
+
+Taking off everything was relatively simple;
+* Take off the bolt covers off the seat rails, take off the seats
+* Remove the seatbelt bolt
+* Take off the plastic trim around the door sill (it pops off with force)
+* Undo the plastic kick panel (Xmas tree clips) and remove the screw on the boot latch cover, pop both off
+* Rip out the carpet
+
+At this point, I stopped with the fuel pump stuff to sort out the immobiliser. 
+
+<b>Immobiliser Removal</b>
+
+Since I'd be putting a new conversion harness, I was unsure how the immobiliser would play well with it, but I wanted to retain the aftermarket central locking feature. So I had a look at the wiring diagram for the model of immobiliser I had. I had an older one which only wired into the fuel pump and didn't have as many wires. The wiring diagram is below.
+
+![wiring](/images/fuel_3.png)<center>
+</center> 
+
+So by looking at that - if I just removed the IM1 related wires (fuel pump), then I can still retain the central locking without fuel pump immobilisation. This wire was found once we ripped up the carpet (hard for thieves to locate). I removed that part of the circuit, taped it off and tried to start the car in "immobilised" mode - and it started fine. So now I had central locking but no immobilisation, something I can suss out after the full swap is done because I don't know how much of the dash harness gets ripped up.
+
+<b>Fuel pump upgrade</b>
+
+Once the wiring was sorted, I took off the fuel pump lines (x2) and the pump connector. The cradle comes out easily. Below is a picture with the new pump in the cradle, and the old pump next to it.
+
+![Fuel pump](/images/fuel_2.jpg)<center>
+Old vs. New
+</center> 
+
+To replace the fuel pump
+* Unplug the connector
+* Manhandle the cradle to seperate the pump from the cradle
+* Twist off the bottom rubber boot so you can see the circular metal clip, and use a small flathead to slowly pry it off - don't break it, you need it later.
+* Take off the fuel filter sock 
+
+The higher flowing pump is larger in size, so you will need to cut the rubber pipe that goes into the hardline to length. If its too long, then you can't install the pump back onto the cradle. I had to cut about 1cm off. Then I put the pump back in the cradle, ziptied it to the cradle as the bottom bracket doesn't sit as well and popped the whole system back into the fuel tank and reset the required lines and connector.
+
+A start of the car validated if the fuel pump primed. Everything seemed good, but the new pump was about 30% louder during priming.
