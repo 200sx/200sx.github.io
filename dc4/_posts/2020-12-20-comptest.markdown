@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Compression Testing the B18B1"
+date:   2020-12-20 17:45:00 +1000
+categories: dc4
+---
+
+One of the things that needed to be done prior to engine removal was to compression test it. My tuner wanted to buy the longblock, pop a VTEC head on it and have some fun with it but in case that plan fell through, I wanted to know the engine health so I can price it accordingly. Also it was something I've never done and I wanted to learn how to do it.
+
+To do it;
+* Remove the 15A fuse labelled "Fuel Pump (SRS)" found at the dash fuse box
+* Remove the coilpacks and lay them away from each other and metal (so it doesn't arc) - not sure if this is safe but it was good enough for us (YOLO)
+* Remove all the spark plugs - do this by hand and go slowly just to minimise the risk of the ceramic stem shattering
+
+![car](/images/comp_1.jpg)<center>
+Side Note: I had to install all the shelving in preperation for this swap. Dad left the garage looking like a pigsty.
+</center> 
+
+
+Now you can test each cylinder bank one by one with the compression tester. Screw in the compression tester, take your time with it so that it threads in nice, it's a bit finnicky. Step on the accelerator to open up the intake and crank it for 3-4 seconds until the needle stops climbing and get the reading at the gauge. Depressurise and repeat thrice. Do this for all four banks. Below were the readings I had. I also noticed there was an insignificant amount of oil in all the banks - the spark plug gaskets on the valve cover were shot for sure.
+
+
+![car](/images/comp_2.jpg)
+
+This was one of the readings I had. Not bad for a motor with 325,000 kilometers. The equitorial circumference is about 40,000 km, so that means this car has circled around the earth about 8.125~ times. Not bad, good soize.
+
+Overall readings;
+* Bank 1 - 200 psi
+* Bank 2 - 230 psi
+* Bank 3 - 220 psi
+* Bank 4 - 210 psi
+
+The engine is not bad for its age, I expected much worse. I presume that the buyer will put higher compression pistons in it anyway.
