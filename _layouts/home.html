@@ -13,11 +13,15 @@ layout: default
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
-    {% assign posts = site.posts %}
+    {% assign category_to_get =  page.category_collector %}
+    {% assign posts = site.categories[category_to_get] %}
   {% endif %}
 
 
   {%- if posts.size > 0 -%}
+    <div class="page-content">
+      <h1 class="page-heading">Posts</h2>
+    </div>
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
