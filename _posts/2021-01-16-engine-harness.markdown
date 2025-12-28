@@ -2,7 +2,7 @@
 layout: post
 title:  "Harness Pt. 1 - K20 Engine Harness Routing"
 date:   2021-01-16 17:45:00 +1000
-categories: jekyll update
+categories: dc4
 ---
 
 Two posts in one day? Progress! I had to rush today because I have Joey's 23th Kae tonight and I know tomorrow will be a write-off. Nothing will be plugged in today, I just want to get the loom routed into the firewall. A lot of people who run K-swaps delete their HVAC system or swap into an EK chassis, both of which allow for simple routing options for the loom. Since I didn't want to cut any holes in the firewall, I had to use one of the stock grommets. Frans said I might have issues with the conversion harness not reaching far enough with the way I've done it but that is to be seen (in a later secondary post). I don't think it should be a problem, and worst case scenario, I can mount the ECU behind or in the glovebox so the cables can all reach easier.

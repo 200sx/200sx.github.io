@@ -2,7 +2,7 @@
 layout: post
 title:  "Fuel Pump - Walbro 255 & removing the immobiliser"
 date:   2020-12-19 15:30:16 +1100
-categories: jekyll update
+categories: dc4
 ---
 
 I'll make a post soon with all the parts I have so far, and what I still need for the full K-swap, but one of the upgrades that needed to be done was to upgrade the fuel system. 

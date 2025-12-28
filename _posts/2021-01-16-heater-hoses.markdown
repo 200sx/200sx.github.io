@@ -2,7 +2,7 @@
 layout: post
 title:  "Heater Hoses"
 date:   2021-01-15 17:45:00 +1000
-categories: jekyll update
+categories: dc4
 ---
 
 When you turn your AC on to "Heat" mode, the heater valve opens up (sometimes motorised, this time its a physical linkage alike the throttle cable) and allows hot coolant into the heater core, which air is forced through, to provide hot air into the cabin.

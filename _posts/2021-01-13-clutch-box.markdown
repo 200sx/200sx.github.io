@@ -2,7 +2,7 @@
 layout: post
 title:  "Flywheel, Clutch, Gearbox"
 date:   2021-01-13 17:45:00 +1000
-categories: jekyll update
+categories: dc4
 ---
 
 It took a bit for the last major piece of the puzzle to arrive. Once I had the gearbox at hand (NSN3, MFactory 1.5Way LSD) I needed to install the flywheel and clutch to the engine and then mount the engine to the gearbox.

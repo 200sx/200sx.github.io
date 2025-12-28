@@ -1,6 +1,6 @@
 ---
 layout: page
-title: B-Roll Images
+title: Misc. Photos
 permalink: /b-roll/
 ---
 

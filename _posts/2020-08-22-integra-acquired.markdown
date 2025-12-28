@@ -2,7 +2,7 @@
 layout: post
 title:  "Integra Acquired"
 date:   2020-08-22 15:30:16 +1100
-categories: jekyll update
+categories: dc4
 ---
 
 2020 was a pretty eventful year - and I'd saved up enough for a car. My original budget was around $20,000. For this I could have purchased any of the cars I'd ideally wanted of the below.
