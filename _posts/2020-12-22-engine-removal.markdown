@@ -2,7 +2,7 @@
 layout: post
 title:  "Removing the B18B1"
 date:   2020-12-22 17:45:00 +1000
-categories: jekyll update
+categories: dc4
 ---
 
 At this point, I had known enough about the existing setup and any peculiarities in its past. Removing the engine was a three day process just because I took my time with it and also needed to buy tools as I went. I also went the extra mile and assorted all the bolts into labelled containers for easy access later on. Really though, below is everything you need to rip out an engine.

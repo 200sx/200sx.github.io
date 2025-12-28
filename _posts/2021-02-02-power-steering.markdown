@@ -2,7 +2,7 @@
 layout: post
 title:  "Power Steering System"
 date:   2021-02-02 17:45:00 +1000
-categories: jekyll update
+categories: dc4
 ---
 
 The power steering system is pretty simple if you have the right parts. For this you'll need;
