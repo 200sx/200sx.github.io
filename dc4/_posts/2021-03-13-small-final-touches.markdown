@@ -2,7 +2,7 @@
 layout: post
 title:  "Final touches before leaving home"
 date:   2021-02-20 17:45:00 +1000
-categories: dc4
+
 ---
 
 This whole period was poorly documented so apologies for the lack of videos. But basically, the car was almost ready to be started (no coolant, just a test start). Pretty much everything was done at this point;

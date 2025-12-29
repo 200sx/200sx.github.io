@@ -5,6 +5,7 @@
 layout: home
 title:  "S2000"
 start_date:   2023-11-15 15:30:16 +1100
+category_collector: s2000
 ---
 
 ![dc4](/images/s2000/s2.jpg)<center>

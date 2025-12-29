@@ -2,7 +2,7 @@
 layout: post
 title:  "Sold"
 date:   2024-01-30 17:45:00 +1000
-categories: dc4
+
 ---
 
 This post was written on 6th April 2024, however the car was sold on the 30th of January.
@@ -15,12 +15,12 @@ Sometime mid-late last year, Joey was keen on keeping the Evo 8 for himself. Whe
 
 This meant that his S2K was up for sale. On my birthday I flew out to Thailand with Vignesh for a week and upon my return, I picked up the S2K and put up the Integra for sale. A tradie on his reds from Punchy copped it. He had a JDM front lined up for it, as he was initially looking for a shell and had plans to supercharge it down the line.
 
-I was sad to see the car go, but was also partly glad to get rid of it - the NVH and lack of AC (rectifiable, but I was lazy) was getting to me. In the two and a bit years after the swap, it was *fairly faultless*. I had a faulty TPS which was replaced with an Acuity Unit. The car felt more responsive after, unsure if due to TPS fault or the higher resolution of the sensor. There was also a K20 -> K24 Alternator swap that I did (K20 alternators fit, but the top bolt doesn't actually line up 100% and tends to snap the bolt, or in my case, kept working itself loose as the threads barely catch). One time the Alternator -> Battery cable came loose when it was raining at night which was untimely.
+Since the last post (when the build was initially completed), the main changes were adding the OEM Type R lip and spoiler, it was *fairly faultless*. Some of the pins on the JDMYARD harness (on the driver's side) were wrong which I changed to get accurate reverse and door ajar lights. I had a faulty TPS which was replaced with an Acuity Unit. The car felt more responsive, I should have done it earlier. I also swapped out my K20 alternator for a K24 one, which sits flush on the block. The K20 alternator chewed my threads and snapped a bolt due to this tiny difference in the angle of the mounting surface that meets the block (it's a degree or two off). One time the Alternator -> Battery cable came loose when it was raining in the middle of the night which caused me a lot of grief. I was sad to see the car go, but was also partly glad to get rid of it - the NVH and lack of AC (rectifiable, but I was lazy) was getting to me.
 
 ![dc4](/images/dulwichhill.jpg)<center>
 At a picnic at Dulwich Hill
 </center> 
 
-The car was an excellent daily, I used it to move out and live at Redfern for a year with Josh. The car was super spacious and was a joy to rip around the Inner West and the rowdy exhaust was👌
+The car was an excellent daily, I used it to move out and live at Redfern for a year with Josh. It never complained, always started and provided a lot of personality. Chopped a lot of cars, there's some magic in the torque & short gearing which means it rips in every gear till redline at peak torque. Plus the rowdy exhaust with a high flow cat was👌
 
-Comparing the Integra after dailying the S2000 for couple months, the torque is something I definitely miss. The S2K has all the creature comforts (Android Headunit !!) and has less NVH but its still up there compared to other cars (more than both the generations of the 86).
+Comparing the Integra after dailying the S2000 for couple months, the torque is something I definitely miss. The S2K has all the creature comforts (Android Headunit !!) and has less NVH (though still high, more than both the generations of the 86 for comparison). It has its own charm and offers a completely different experience but does not fill the void the Integra left.

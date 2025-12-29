@@ -2,7 +2,7 @@
 layout: post
 title:  "Charge Harness"
 date:   2021-02-06 17:45:00 +1000
-categories: dc4
+
 ---
 
 

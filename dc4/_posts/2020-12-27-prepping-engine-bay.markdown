@@ -2,7 +2,7 @@
 layout: post
 title:  "Prepping the Engine Bay"
 date:   2020-12-27 17:45:00 +1000
-categories: dc4
+
 ---
 
 The past couple days have been mainly uneventful due to family events. Also the process of degreasing, cleaning, masking and painting takes time. Here is a quick before and after shot.

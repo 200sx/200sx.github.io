@@ -2,7 +2,7 @@
 layout: post
 title:  "Dyno Night"
 date:   2021-06-15 17:45:00 +1000
-categories: dc4
+
 ---
 
 I mentioned in the last post that it was written retroactively. You'll also notice that this post is written almost 3 months after. A lot has passed since. Things were good at home and I was recently promoted but I really couldn't care. The only thing I really cared was getting this car done, it was the only sense of normalcy during a period where there was a weekly death back home (due to COVID complications). Life is truly a bitch.

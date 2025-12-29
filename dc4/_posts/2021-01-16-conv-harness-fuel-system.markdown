@@ -2,7 +2,7 @@
 layout: post
 title:  "Harness Pt. 2- Conversion Harness, and Fuel System"
 date:   2021-01-16 18:45:00 +1000
-categories: dc4
+
 ---
 
 Now that the main engine loom was routed and concerns in the previous post regarding length was not an issue, I had to tackle the rest of the wiring, which was pretty simple. I bought the conversion harness from JDMYard for about $300. It was a cheap buy, all things considered. The item is a K-Tuned copy. 
