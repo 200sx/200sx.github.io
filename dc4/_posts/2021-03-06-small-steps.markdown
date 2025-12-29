@@ -2,7 +2,7 @@
 layout: post
 title:  "Small steps here and there"
 date:   2021-03-13 17:45:00 +1000
-categories: dc4
+
 ---
 
 This post was written retroactively.

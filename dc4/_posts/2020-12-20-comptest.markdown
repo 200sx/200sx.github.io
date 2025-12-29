@@ -2,7 +2,7 @@
 layout: post
 title:  "Compression Testing the B18B1"
 date:   2020-12-20 17:45:00 +1000
-categories: dc4
+
 ---
 
 One of the things that needed to be done prior to engine removal was to compression test it. My tuner wanted to buy the longblock, pop a VTEC head on it and have some fun with it but in case that plan fell through, I wanted to know the engine health so I can price it accordingly. Also it was something I've never done and I wanted to learn how to do it.

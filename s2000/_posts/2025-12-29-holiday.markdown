@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Holiday Maintenance"
+date:   2025-12-29 17:45:00 +1000
+---
+
+
+I had three weeks off work and was keen on being productive - which has been tough in the past two years due to work being intense but its time for a change. Firstly, the garage room was cleaned up which was a two day odreal. I free'd up floor space and hung all my tools, organised fastners, brackets and misc. tidbits into labelled boxes which were mounted to the shelving. Ready for a new mess. 
+
+The things I addressed were;
+* Installing AP2 Leather Apron around the transmission tunnel
+* Respraying the Centre Console Fascia
+* Addressing the NVH in the car
+
+The leather apron I happened upon by accident. 
+
+![s2000](/images/s2000/ap1-centre-console.jpg)
+<center>
+Before
+</center>
+
+The AP2 centre console was a 2k exercise which I wasn't keen on, and I didn't know the AP2 leather retrofit until I saw it on reddit. I confirmed the fitment with Josh and he luckily stocked it. Mine for $450. Installing it was a pain as there's not much space. I had to take out one seat so I had leverage on all the clips, and getting the leather under the dashboard took a lot of time, being gentle not to scratch anything.  While I was in there I resprayed the fascia. Its' worn beyond saving but a fresh coat of paint will suffice for now. Ideally I get cosmetically worn, physically straight one (they are not sold seperately) and wrap it titanium metal. I also drilled into the coin pocket to route the USB-C cable for Android Auto. The before and after was worth it. I don't think I need to get an AP2 unit anymore, it was the carpet that cheapened the experience. 
+
+
+![s2000](/images/s2000/ap2-leather-console.jpg)
+<center>
+After - AP2 Leather Apron, Resprayed Fasia, USB-C routed via coin pocket
+</center> 
+
+Addressing the NVH - Removed the wind deflector. I need to glue it together to stop it from rattling, removed it for now. I also removed the Whiteline Front Subframe brace which was bent from Luddenham. Heaps reduced vibrations being transmitted into the cabin - it was fouling on the front jack point. Also ripped apart the driver's door card, padded any rattles. The only pending rattles are the door lock mechanism (clips and rods) which I'll have to find replacement parts for.
+
+
+The things pending are;
+* Respraying and mounting the AP2 Front bar, including fixing up dodgy paintwork on both front fenders, RHS door and side strakes
+* AP2 Clutch + Lightened Flywheel, Slave Cylinder - I still have the original AP1 unit from '99 which has clutch buzz
+* Vibrations when accelerating - both the CV cups were replaced so this remains a mystery
+* Clutch pedal stopper
+* Soft-top latch rattle - common issue, need to add foam tape between the plastic box on the inside and the metal exterior. They clang over time. 

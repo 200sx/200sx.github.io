@@ -2,7 +2,7 @@
 layout: post
 title:  "Installing the Motor Mounts"
 date:   2021-01-12 17:45:00 +1000
-categories: dc4
+
 ---
 
 The last post was a while ago. This was because I was waiting for the engine and gearbox to be delivered to complete the rest of the process. While the plan was to install the engine around New Years' there was a delay due to issues with the gearbox (crunched third), but the tuner (Luis) went above and beyond to sort me out.
