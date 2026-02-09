@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "Clutch and Spoon Rigid Mounts"
+date:   2026-02-08 17:45:00 +1000
+---
+
+Changing the clutch requires dropping the front subframe a little, and that meant it was rife for a bit of scope creep. But before that, I wanted to detail the engine bay so Josh and I had a clean base to work from, which revealed a ton of rust in the pocket where the battery sat due to rust. 
+
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span">
+    ![s2000](/images/s2000/battery-rust-1.jpg)
+    <center>
+    Rust and battery dust
+    </center> 
+</td>
+<td markdown="span">
+    ![s2000](/images/s2000/battery-rust-2.jpg)
+    <center>
+    Mid rust repairs - an hour or two of wire brush and wheeling
+    </center> 
+</td>
+</tr>
+<tr>
+<td markdown="span">
+    ![s2000](/images/s2000/battery-rust-3.jpg)
+    <center>
+    Couple coats of etch primer
+    </center> 
+</td>
+<td markdown="span">
+    ![s2000](/images/s2000/battery-rust-4.jpg)
+    <center>
+    Finishing off with a Supercheap matched rattle-can of NH-630M (General sub-type)
+    </center> 
+</td>
+</tr>
+<tr>
+<td markdown="span">
+    ![s2000](/images/s2000/battery-rust-5.jpg)
+    <center>
+    Resprayed heater-box mixer bracket, and fuse box bracket
+    </center> 
+</td>
+<td markdown="span">
+    ![s2000](/images/s2000/battery-rust-6.jpg)
+    <center>
+    Resprayed battery tray
+    </center> 
+</td>
+</tr>
+</tbody>
+</table>
+
+With the rust repairs done, the car was prepped to go into STG Automotive for the below items.
+
+![s2000](/images/s2000/clutch-rigid-invoice.jpg)
+
+Spoon pressure plate instead of OEM as it was cheaper and an upgrade on the OEM item. Pedal feel still good. The Rigid collars were a "while you were in there". There was added labour to fix a dodgy subframe thread which took an hour or two (read; expensive labour charge) but was necessary. We didn't install the rigid collar for that hole since it would probably seize and cause more issues down the line (the base of the hole is not even, though the bolt hole is fully functional).
+
+![s2000](/images/s2000/stg-clutch.jpg)
+<center>
+Always nice cars on the hoist here
+</center> 
+
+The clutch we removed was an Exedy HD item from 2017 - so it was disappointing that it had clutch buzz. The stock OEM item we replaced it with remedies the issue. I don't really feel a huge difference from the rigid collars, might be placebo but it does feel a bit more firm going over small bumps (less sway?). The cabin is heaps quieter without the buzz however it reveals other NVH issues, two big ones being the rattle in the door is more prominent and the engine vibrations seem excessive. Josh reckons its a Hardrace mount and not OEM. AUS2K has a pair for sale for $450 so they might be the next item but its a big cost on a hunch. Rigid collars are nice for the spec sheet, but unsure if they were worth $300 or the labour involved (to be fair, this can be done at home but was paid for due to labour charge discounts since we're already in here, also saves me buying copper grease) We also confirmed;
+
+- Bumper tab relocation (was handled by Joey so was just a visual yep here. The rubbing on the rear bar is expected, and best to self clearance via driving, no scary rubs).
+- Clutch pedal stopper
+
+Amayama has some cheap parts so the next few items are just tiny clips to reduce rattling (door card clips, door rod lock stop clips, the fluro green retaining clip for the armrest screws). Josh checked out the 4.77FD and noted that it wasn't as noisy as other installs, so I don't think dropping another $2000 for a stock FD is worth given the NVH doesn't reduce as much - though it would be good for highway cruises. Not sure if worth over some Loops given the soft-top is ridiculously loud on windy days anyway. They also have a lot of the hoses and thermostat bits to refresh the cold-side of the engine which does need some visual TLC. Will be approx. $300 in parts so will be mulling over this. I should probably take the alternator off and do a good scan of all the exact parts and order them in.
+
+
+![s2000](/images/s2000/ap2-bar.jpg)
+
+
+I've booked in a session soon to get the AP2 bumper resprayed and touching up other damaged parts. I expect this to be a $4,000~ expense so hopefully the rest of 2026 will be expense free.
+
+
+
+
